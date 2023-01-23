@@ -3,9 +3,9 @@
 
 ## Backendde kullanılan kütüphaneler ve uygulamalar.
   
-- Uygulamalar:  Docker, Redis, MongoDB Compass, Postman  
+"Uygulamalar:  Docker, Redis, MongoDB Compass, Postman",  
   
-- Libraries:  
+"Libraries:"
     "accesscontrol": "^2.2.1",  
     "bcrypt": "^5.0.1",  
     "boom": "^7.3.0",  
