@@ -68,14 +68,14 @@ JWT_REFRESH_SECRET=rerv1jv15v1CVBnasd23jnv13123nvrqwr23
 
 - Create Database diyerek "test" isimli bir database oluşturulur ve bir collection girilir. Ardından  assets dosyasındaki json dosyaları sıra ile eklenir.
 
-<img width="1544" alt="Ekran Resmi 2022-11-17 01 52 39" src="https://user-images.githubusercontent.com/88403704/202311785-1623e38c-9b3d-4306-9313-2f7576ee867d.png">
+<img width="1544" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/db1.png">
 
 - Bu işlemin ardından "Add Data -> Import File" diyerek backend dizininde yer alan assets klasöründeki json dosyalarını ilgili collectionlara eklenir.
 
-<img width="1544" alt="Ekran Resmi 2022-11-17 01 54 35" src="https://user-images.githubusercontent.com/88403704/202312099-535b8142-fbbb-4597-b34f-5fb1dd4163a7.png">
+<img width="1544" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/db2.png">
 
 - backend dizininde `yarn dev` & `npm run dev`  komutu çalıştırarak backend ayağa kaldırılır.
-<img width="652" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://user-images.githubusercontent.com/88403704/202312661-914784e9-5939-4143-bf52-12eb07ca4646.png">
+<img width="652" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/connect.png">
 
 - http://localhost:4000/ adresinde istek atarak backend'in ayakta olduğunu doğrulayabilirsiniz.
 
@@ -86,16 +86,16 @@ JWT_REFRESH_SECRET=rerv1jv15v1CVBnasd23jnv13123nvrqwr23
     
     
 ## Projenin Görüntüleri
-<img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/homepage.png">
+<img  width="1000" height="500" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/homepage.png">
 <hr/>
-<img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/register.png">
+<img  width="1000" height="500" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/register.png">
 <hr/>
-<img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/profile.png">
+<img  width="1000" height="500" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/profile.png">
 <hr/>
-<img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/todos.png">
+<img  width="1000" height="500" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/todos.png">
 <hr/>
-<img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/todos.png">
+<img  width="1000" height="500" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/todos.png">
 <hr/>
-<img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/edit.png">
+<img  width="1000" height="500" alt="Ekran Resmi " src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/edit.png">
 <hr/>
-<img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/create.png">
+<img  width="1000" height="500" alt="Ekran Resmi" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/create.png">
