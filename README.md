@@ -87,6 +87,7 @@ JWT_REFRESH_SECRET=rerv1jv15v1CVBnasd23jnv13123nvrqwr23
     
 ## Projenin Görüntüleri
 <img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/homepage.png">
+<hr/>
 <img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/register.png">
 <img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/profile.png">
 <img  width="1000" height="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/todos.png">
