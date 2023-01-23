@@ -74,11 +74,15 @@ JWT_REFRESH_SECRET=rerv1jv15v1CVBnasd23jnv13123nvrqwr23
 
 <img width="1544" alt="Ekran Resmi 2022-11-17 01 54 35" src="https://user-images.githubusercontent.com/88403704/202312099-535b8142-fbbb-4597-b34f-5fb1dd4163a7.png">
 
-- backend dizininde `yarn dev` komutu çalıştırarak backend ayağa kaldırılır.
+- backend dizininde `yarn dev` & `npm run dev`  komutu çalıştırarak backend ayağa kaldırılır.
 <img width="652" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://user-images.githubusercontent.com/88403704/202312661-914784e9-5939-4143-bf52-12eb07ca4646.png">
 
 - http://localhost:4000/ adresinde istek atarak backend'in ayakta olduğunu doğrulayabilirsiniz.
 
 ## Frontend Ayağa Kaldırma
 - client dizinine giderek  `npm install` ile *node_modules* indirilir.
-- Daha sonra `yarn start` veya `npm start` komutu ile react projesi ayağa kaldırılır.
+- Daha sonra `yarn start` veya `npm start` komutu ile react projesi ayağa kaldırılır.  
+  
+  
+  
+## Projenin Görüntüleri
