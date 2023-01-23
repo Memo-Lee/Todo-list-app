@@ -82,7 +82,14 @@ JWT_REFRESH_SECRET=rerv1jv15v1CVBnasd23jnv13123nvrqwr23
 ## Frontend Ayağa Kaldırma
 - client dizinine giderek  `npm install` ile *node_modules* indirilir.
 - Daha sonra `yarn start` veya `npm start` komutu ile react projesi ayağa kaldırılır.  
-  
-  
-  
+    
+    
+    
 ## Projenin Görüntüleri
+<img width="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/homepage.png">
+<img width="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/register.png">
+<img width="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/profile.png">
+<img width="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/todos.png">
+<img width="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/todos.png">
+<img width="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/edit.png">
+<img width="500" alt="Ekran Resmi 2022-11-17 01 57 07" src="https://github.com/Memo-Lee/todo-app/blob/main/client/public/img/create.png">
